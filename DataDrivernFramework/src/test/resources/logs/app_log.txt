@@ -1,0 +1,6 @@
+INFO    2021-07-12 00:19:30,507 [main] testcase.LoginTest  - OR Properties file loaded
+INFO    2021-07-12 00:19:30,509 [main] testcase.LoginTest  - Config Properties file loaded
+INFO    2021-07-12 00:19:36,644 [main] testcase.LoginTest  - Chrome browser launched
+INFO    2021-07-12 00:19:37,158 [main] testcase.LoginTest  - Typing in an Element: username_ID  entered the value as : wau2@automation.com
+INFO    2021-07-12 00:19:37,331 [main] testcase.LoginTest  - Typing in an Element: password_ID  entered the value as : teset
+INFO    2021-07-12 00:19:37,331 [main] testcase.LoginTest  - Clicking on an Element: id
